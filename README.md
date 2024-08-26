@@ -1,6 +1,8 @@
-# Sistema de Gestión de Ventas - Pollería Express
+# Sistema de Gestión de Ventas - Pollería Express 2019
 
-Este proyecto es un sistema básico de gestión de ventas desarrollado en C++. Permite registrar, consultar, modificar y eliminar registros de ventas, así como generar reportes totales. Este proyecto aplica varios conceptos fundamentales aprendidos en un curso de fundamentos de programación en C++.
+En el Perú, las **pollerías** son establecimientos comerciales que venden el **pollo a la brasa**. Se suele vender en 1/4, y en pollo entero.
+
+Este proyecto es un sistema básico de gestión de ventas desarrollado en C++. Permite registrar, consultar, modificar y eliminar registros de ventas, así como generar reportes totales. Este proyecto aplica varios conceptos fundamentales aprendidos en el curso de "Fundamentos de Programación 2019-2 UPN" en C++.
 
 ## Tabla de Contenidos
 
@@ -16,11 +18,6 @@ Este proyecto es un sistema básico de gestión de ventas desarrollado en C++. P
   - [Archivos de Acceso Aleatorio](#archivos-de-acceso-aleatorio)
   - [Funciones](#funciones)
   - [Uso de Librerías](#uso-de-librerías)
-- [Mejoras Futuras](#mejoras-futuras)
-- [Requisitos del Sistema](#requisitos-del-sistema)
-- [Instrucciones de Compilación](#instrucciones-de-compilación)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Descripción General
 
@@ -79,20 +76,4 @@ El programa utiliza varias librerías estándar de C++:
 - `<stdlib.h>` para funciones de control del sistema.
 - `<conio.h>` para la captura de entrada de teclado sin bloqueo.
 
-## Mejoras Futuras
-
-- Implementación de métodos de ordenación como burbuja, inserción, selección, shell, merge y quick sort para mejorar la eficiencia en la consulta de datos.
-- Uso de archivos de acceso aleatorio para una gestión más eficiente de registros de ventas.
-- Inclusión de punteros para la manipulación avanzada de estructuras de datos.
-
-## Requisitos del Sistema
-
-- Compilador de C++ (GCC, Clang, MSVC, etc.)
-- Sistema operativo Windows, Linux o macOS
-- Librerías estándar de C++ instaladas
-
-## Instrucciones de Compilación
-
-1. Clona el repositorio a tu máquina local.
-   ```bash
-   git clone https://github.com/tu_usuario/sistema-gestion-ventas.git
+## Autor: Bernabé Jordán C.
