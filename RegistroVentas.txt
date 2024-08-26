@@ -1,0 +1,13 @@
+1 Jorge|Coco 0 1 70
+2 Berny|Jordan 1 1 90
+4 Carmen|Cita 1 2 160
+5 Juan|Cito 1 1 90
+6 Martin|Villaverde 3 0 60
+7 Carmen|Cita 0 1 70
+8 Agusto|Cubas 0 1 70
+10 Carmen|Cita 1 3 230
+11 Carmen|Cita 1 2 160
+12 Santi|Aguito 3 0 60
+13 Juan|Cito 0 1 70
+14 Juan|Cito 2 2 180
+15 Juli|Ana 2 4 320
