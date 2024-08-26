@@ -4,6 +4,8 @@ En el Perú, las **pollerías** son establecimientos comerciales que venden el *
 
 Este proyecto es un sistema básico de gestión de ventas desarrollado en C++. Permite registrar, consultar, modificar y eliminar registros de ventas, así como generar reportes totales. Este proyecto aplica varios conceptos fundamentales aprendidos en el curso de "Fundamentos de Programación 2019-2 UPN" en C++.
 
+A continuación se muestra un DEMO [Video de Desmotración](https://youtu.be/2nVd3Bp1ONM)
+
 ## Tabla de Contenidos
 
 - [Descripción General](#descripción-general)
